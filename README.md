@@ -20,6 +20,8 @@ This course should help acquaint you with:
 * [ClassTranscribe](https://classtranscribe.illinois.edu/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6) -
   select "Google" sign-in and use your GVSU gmail account
 * [GVSU VPN Instructions](https://www.gvsu.edu/it/downloading-installing-and-setting-up-pulse-secure-222.htm)
+* [Temporary Youtube Link](https://www.youtube.com/playlist?list=PL7AyriZs2qzGOtL0Cb7nDnn8t6saoqVm2) - 
+  videos seem to be down temporarily
 
 ### Need Help?
 If you have questions, please ask!  I'm here to help.  I welcome students
