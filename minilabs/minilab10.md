@@ -16,7 +16,7 @@ Where:
 * the very first digit (first digit in the area code)
   can only be between 2 and 9
 * the first digit of the 7 digit number (aka, the 4th
-  digit of the 10 digit numberz0 can only be between 2 and 9
+  digit of the 10 digit number can only be between 2 and 9)
 * the rest of the digits can be any number between 0 and 9
 
 You can grab a file that contains a mix of valid and invalid phone numbers
